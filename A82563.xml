@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ecce the new testament of our Lords and Saviours, the House of Commons at Wesminster [sic], and the Supreame Councell at Windsor. Newly translated out of their owne heathenish Greek ordinances, with their former proceeding; diligently compared and revised, and appointed to be read in all conventicles. Cum privilegio.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82563</idno>
+            <idno type="STC">Wing E127</idno>
+            <idno type="STC">Thomason E427_22</idno>
+            <idno type="STC">ESTC R204599</idno>
+            <idno type="EEBO-CITATION">99864067</idno>
+            <idno type="PROQUEST">99864067</idno>
+            <idno type="VID">161468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161468)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E427[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ecce the new testament of our Lords and Saviours, the House of Commons at Wesminster [sic], and the Supreame Councell at Windsor. Newly translated out of their owne heathenish Greek ordinances, with their former proceeding; diligently compared and revised, and appointed to be read in all conventicles. Cum privilegio.</title>
+                  <author>Granger, William, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Granger in the Wrenn catalogue.</note>
+                  <note>Annotation on Thomason copy: "Feb: 18.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161468:1" rendition="simple:additions"/>
+            <p>ECCE THE NEW TESTAMENT OF OUR LORDS and SAVIOURS, THE Houſe of COMMONS at WESMINSTER, And the SUPREAME COUNCELL at WINDSOR.</p>
+            <p>Newly Tranſlated out of their owne Heatheniſh Greek Ordinances, with their former proceeding; Diligently compa<g ref="char:EOLhyphen"/>red and reviſed, and appointed to be read in all Conventicles.</p>
+            <p>
+               <hi>Cum Privilegio.</hi>
+            </p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:161468:2"/>
+            <head>THE NEW TESTAMENT OF Our Lords and Saviours, &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAPTER I.</hi> The Genealogie of the Parliament, from the yeare 1640. to this preſent 1648. The Conception of their braine by the influence of the Devill, and borne of Hell and Damnation when they were e<g ref="char:EOLhyphen"/>ſpouſed to vertue.</head>
+               <p n="1">1 THe Booke of the Generation of <hi>JOHN PIM,</hi> the ſonne of <hi>Judas,</hi> the ſonne of <hi>Belzebub.</hi>
+               </p>
+               <p n="2">2 <hi>PIM</hi> begat a Parliament, a Parliament begat <hi>Strowd, Strowd</hi> begat <hi>Hazelrig,</hi> and <hi>Hazelrig</hi> begat <hi>Hollis.</hi>
+               </p>
+               <p n="3">3 <hi>Hollis</hi> begat <hi>Hotham, Hotham</hi> begat <hi>Martin, Martin</hi> be<g ref="char:EOLhyphen"/>gat <hi>Corbet.</hi>
+               </p>
+               <p n="4">4 <hi>Corbet</hi> begat <hi>Stapleton, Stapleton</hi> begat <hi>Lewis,</hi> and <hi>Lewis</hi> begat <hi>Clotworthy.</hi>
+               </p>
+               <p n="5">5 <hi>Clotworthy</hi> begat <hi>Glin, Glin</hi> begat <hi>Long, Long</hi> begat <hi>Wal<g ref="char:EOLhyphen"/>ler,</hi> and <hi>Waller</hi> begat <hi>Maſſey.</hi>
+               </p>
+               <p n="6">6 <hi>Maſſey</hi> begat <hi>Pointz, Pointz</hi> begat <hi>Skippon, Skippon</hi> be<g ref="char:EOLhyphen"/>gat <hi>Cromwell,</hi> and <hi>Cromwell</hi> begat <hi>Fairfax.</hi>
+               </p>
+               <p n="7">7 <hi>Fairfax</hi> begat <hi>Rainsborow, Rainsborow</hi> begat <hi>Ireton,</hi> and <hi>Ireton</hi> begat <hi>Whaley.</hi>
+               </p>
+               <p n="8">8 <hi>Whaley</hi> begat <hi>Desborow, Desborow</hi> begat <hi>Hammon, Ham<g ref="char:EOLhyphen"/>mon</hi> begat <hi>Rich,</hi> and <hi>Rich</hi> begat <hi>Watſon.</hi>
+               </p>
+               <p n="9">9 And <hi>Watſon</hi> begat <hi>Baxter</hi> and his Brethren, about the time that he was ſent for by the Houſes to <hi>London,</hi> to carry a<g ref="char:EOLhyphen"/>way the ſpoyles of the Citie.</p>
+               <p n="10">
+                  <pb n="3" facs="tcp:161468:2"/>10 And after they came to <hi>London, Baxter</hi> begat <hi>Wilſon, Wilſon</hi> begat <hi>Manby,</hi> and <hi>Manby</hi> begat <hi>Eſtwick.</hi>
+               </p>
+               <p n="11">11 So that all the Generations, ſince <hi>Pim</hi> to <hi>Eſtwick,</hi> are three Generations; the firſt Generation was, when this Parlia<g ref="char:EOLhyphen"/>ment began to ſit, and pretended a REFORMATION; the ſe<g ref="char:EOLhyphen"/>cond Generation was, when this Parliament had ſate five yeares, and made a perfect DEFORMATION; the third Gene<g ref="char:EOLhyphen"/>ration now is, when this Parliament muſt render an account of their Treaſons, and their heads ſuffer an EXALTATION.</p>
+               <p n="12">12 Now the birth, or beginning of this Parliament, was on this wiſe: when as their Mother, the Kingdome of <hi>England,</hi> was allied or eſpouſed to a great deſire of reforming abuſes; and had therefore nominated their Knights, Citizens, and Burgeſſes; who (as ſoone as ever they came together) were found with child of Schiſme, Sedition, and Rebellion.</p>
+               <p n="13">13 Then King <hi>Charles,</hi> being a juſt man, and not willing to have himſelfe and People ruinated, was minded to diſſolve them.</p>
+               <p n="14">14 But while he thought on theſe things, behold an Angell of darkneſſe, in the ſhape of an Angell of Light, appeared to him, ſaying; King <hi>Charles,</hi> theſe men intend nothing but thine and the Kingdomes good, therefore feare not to give them thy p<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer, for what they now undertake is of the Holy Ghoſt.</p>
+               <p n="15">15 And they ſhall bring forth a ſonne, and ſhall call his name <hi>Reformation;</hi> he ſhall ſave the people from their ſinnes.</p>
+               <p n="16">16 Now all this was done, that it might be fulfilled which was ſpoken long agoe in the Propheſie of <hi>Ow<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>well <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ins:</hi>
+               </p>
+               <lg>
+                  <l>When <hi>England</hi> doth ſwimm<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in floods</l>
+                  <l>Of Plentie, and growes proud of goods,</l>
+                  <l>Then from their ſleepe they ſhall be waked,</l>
+                  <l>To know themſelves both blind and naked:</l>
+                  <l>Chriſts Church muſt know ſome miſerie,</l>
+                  <l>There ſhall be a dolefull Tragedie;</l>
+                  <l>Then Goblers ſhall leave their Laſt</l>
+                  <l>In Sermons up their G<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll to eaſt;</l>
+                  <l>
+                     <pb n="4" facs="tcp:161468:3"/>Mag-pies and Parrats then ſhall prate</l>
+                  <l>Both of the Eagle and the State,</l>
+                  <l>Untill they bring things in concluſion</l>
+                  <l>To much Diſorder and Confuſion.</l>
+               </lg>
+               <p n="17">17 Then <hi>Charles</hi> being thus deluded, did as the Angel had bidden him, and gave countenance to his Parliament, and knew not their evill Intentions, till they had brought forth their firſt-borne, which was <hi>Rebellion,</hi> and he called his Name <hi>Treaſon.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> The wiſe Conspirators direct the people to Petition to them; they worſhip them, and offer their Preſents: King <hi>Charles</hi> flyeth towards <hi>Yorke,</hi> with his Wife and Children.</head>
+               <p n="1">1 NOw when this parliament began at <hi>Weſtminſter,</hi> in the fifteenth yeare of the Reigne of our Soveraigne Lord King <hi>Charles,</hi> behold there came a companie of fooliſh men out of <hi>Buckinghamſhire,</hi>
+               </p>
+               <p n="2">2 Saying, Where is hee that is borne King of <hi>England?</hi> for wee have heard that hee will not conſent to his Ruine, and are come to ſcold with him.</p>
+               <p n="3">3 When the Kings friends heard this, they were troubled, and all <hi>Britaine</hi> with them.</p>
+               <p n="4">4 But when the King had gathered a choſen companie to<g ref="char:EOLhyphen"/>gether, hee went and demanded the five Members that were chiefely oppoſite againſt him.</p>
+               <p n="5">5 But they ſaid unto him, they are not here; for thus it was purpoſely ordered.</p>
+               <p n="6">6 Then the King, when hee had ſummoned his Privie Councell, diligently enquired of them, what was to be done?</p>
+               <p n="7">7 And he called thoſe that came out of the Countries, and ſaid unto them, Goe home to your houſes, and enquire of your owne Conſciences, whether theſe your undertakings are
+<pb n="5" facs="tcp:161468:3"/>
+pious; and you find they are ſo, bring word againe, and I ſhall willingly aſſent.</p>
+               <p n="8">8 When they heard the King, they departed, and loe the ſame Spirit of Error that firſt poſſeſſed them, went before them, till it came and ſtood over the Houſe where the Com<g ref="char:EOLhyphen"/>mons were aſſembled together.</p>
+               <p n="9">9 And when they ſaw the Spirit, they rejoyced with an ex<g ref="char:EOLhyphen"/>ceeding great Joy.</p>
+               <p n="10">10 And when they were come into the Houſe of Commons, they ſaw <hi>Pim, Hazelrig, Hollis,</hi> and <hi>Strowd</hi> ſitting together, and they fell downe and worſhipped them; and when they had gi<g ref="char:EOLhyphen"/>ven them many thanks for their meeting; they preſented unto them that which they preferred above all things, to wit, Gold.</p>
+               <p n="11">11 And being warned by their feares, not to goe back and tell the King, they departed into their owne Countrey another way.</p>
+               <p n="12">12 And when they were departed, behold the Angel of the Lord appeared to King <hi>Charles,</hi> and ſaid, Ariſe and take thy Princely Children and their Mother, and flye into the North, for the <hi>Londoners</hi> joyning with thy Parliament, will ſeeke to deſtroy thee and them.</p>
+               <p n="13">13 Then the King aroſe, and tooke his Wife, and departed, accompanied with ſome faithfull friends.</p>
+               <p n="14">14 Then the Houſes being vexed they could not work their ends upon him, were exceeding wroth, and ſent forth and ſtir<g ref="char:EOLhyphen"/>red up the minds of the people of <hi>England</hi> to Rebellion, and ſlew and impriſoned all thoſe that would not be confederate with them.</p>
+               <p n="15">15 But while theſe things were acting, behold an Angel of the Lord appeared to the King, and ſaid unto him, Ariſe and get the friends thou haſt together, and arme thy loyall ſubjects for thy preſervation.</p>
+               <p n="16">16 Then he aroſe and ſtrengthned himſelfe, proclaimed his Rebellious Parliament Traytors, and came to the Citie of <hi>Yorke.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="6" facs="tcp:161468:4"/>
+               <head>
+                  <hi>CHAP. III.</hi> The Sectarian Clergie incenſe the people againſt the King, the Phariſaicall Common-Councell wiſh the rude multitude to come to be baptized of them.</head>
+               <p n="1">1 IN thoſe dayes came <hi>Saltmarſh</hi> the <hi>Antinomian,</hi> and <hi>Dell</hi> the <hi>Independent,</hi> and Preached to the Citizens of <hi>London,</hi>
+               </p>
+               <p n="2">2 Saying, Now is the time that ye ought to ſtand up for the truth, and to helpe the Parliament forward with your Plate and money.</p>
+               <p n="3">3 For theſe were they of whom Saint <hi>Peter</hi> Propheſied; <hi>That have eyes full of Adultery, and that cannot ceaſe from ſinne, beguiling unſtable ſoules, and hearts they have exerciſed with co<g ref="char:EOLhyphen"/>vetous practiſes; curſed children, which have forſaken the right way, and gone aſtray following the way of</hi> Balaam, <hi>the ſonne of</hi> Bozor, <hi>who loved the wages of unrighteouſneſſe. 2 Pet.</hi> 2. 14, 15.</p>
+               <p n="4">4 And the ſame <hi>Saltmarſh</hi> and <hi>Dell</hi> had large Stipends al<g ref="char:EOLhyphen"/>lowed them, and were cloathed with Iniquitie as with Rai<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="5">5 Then went out to them all the Inhabitants of <hi>London,</hi> and all the Region round about.</p>
+               <p n="6">6 And were by them ſeaſoned with Seditious Principies, covering their ſinnes.</p>
+               <p n="7">7 And when they ſaw them, they ſaid, O ye people of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the parts adjacent, now arme your ſelves for the Bat<g ref="char:EOLhyphen"/>tell, and goe out and fight againſt your King and his Adhe<g ref="char:EOLhyphen"/>rers, bring alſo in your Plate and Jewells into <hi>Guild-hall.</hi>
+               </p>
+               <p n="8">8 And thinke not to ſay within your ſelves, It is better for us to be quiet, and ſit ſtill, rather then to runne the hazard of looſing our lives and eſtates; for we ſay unto you, That you ſhall be proſperous in your undertakings, and ſhall ſoone ac<g ref="char:EOLhyphen"/>compliſh the Work.</p>
+               <p n="9">9 And now alſo the Axe of the Parliament is laid to eve<g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:161468:4"/>
+mans throat, and he that will not be Rebellious ſhall not live.</p>
+               <p n="10">10 We indeed gaine onely ſome few hundred pounds, and chaſtiſe you with words, but your Parliament intend to pur<g ref="char:EOLhyphen"/>chaſe Lordſhips, and to whip you with gleames of fire.</p>
+               <p n="11">11 Their fan is in their hand, and they will throughly purge your purſes, for their Ambition burnes like unquenchable fire.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> The King tempted with unheard of Propoſitions, hee reſiſteth the temptation, and the People flock unto him, moved by the ſound Doctrine of his Declarations.</head>
+               <p n="1">1 THen was King <hi>Charles</hi> permitted by God to be tempted by his Parliament, with unreaſonable Propoſitions ma<g ref="char:EOLhyphen"/>ny dayes.</p>
+               <p n="2">2 And when <hi>Pembroke</hi> the Tempter came unto him, he ſaid; If thou wilt ſtill be King of Great <hi>Britaine,</hi> thou muſt ſet thy hand to theſe Propoſitions.</p>
+               <p n="3">3 But he anſwered, and ſaid; It is written in the <hi>Proverbs, Thou ſhalt feare God, and honour the King; the wrath of a King is like the roaring of a Lyon, and he that provoketh him, ſinneth a<g ref="char:EOLhyphen"/>gainſt his owne ſoule.</hi>
+               </p>
+               <p n="4">4 Then <hi>Pembroke</hi> the Tempter ſaid unto him; Behold, thou ſhalt be a more great and glorious King then any of thy Pro<g ref="char:EOLhyphen"/>genitors; we will augment thy Revenues, and inlarge thy Ter<g ref="char:EOLhyphen"/>ritories, if thou wilt but fall downe and worſhip us thy Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="5">5 But he ſaid unto him againe, It is written in the <hi>Romans; Let every ſoule be ſubject to the higher powers, but to the King as Supreame:</hi> Now therefore get thee gone thou Rebell; For, in the <hi>Proverbs, Where the word of a King is, there is power, and who may ſay unto him, what doſt thou?</hi>
+               </p>
+               <p n="6">6 Then the Tempter left him, and his owne faithfull Lords came and miniſtred unto him.</p>
+               <p n="7">
+                  <pb n="8" facs="tcp:161468:5"/>7 Now when the King heard that his Parliament had entred into Covenant againſt him, and had conſtrained his Liege-People to Sweare their owne and his ruine, he cauſed his Standard to be erected at <hi>Nottingham.</hi>
+               </p>
+               <p n="8">8 And leaving the Citie of <hi>Yorke,</hi> he came and kept his Court in <hi>Oxford,</hi> one of the Eyes of <hi>England.</hi>
+               </p>
+               <p n="9">9 From that time there was deadly Warre between the King and his Parliament, with an equall concernment on both ſides.</p>
+               <p n="10">10 And his Fame went throughout all the Quarters of <hi>England,</hi> the people bringing unto him all ſuch as were diſeaſed with the <hi>Evill,</hi> and he healed them.</p>
+               <p n="11">11 And there followed him great multitudes of his People <hi>Kent,</hi> from <hi>Staffordſhire,</hi> and from beyond <hi>Tine.</hi>
+               </p>
+               <lg>
+                  <head>A Pſalme, to be ſung as the 15. of <hi>Davids.</hi>
+                  </head>
+                  <l>GOod Lord confound King <hi>Oliver,</hi>
+                  </l>
+                  <l>and all his holy Crew,</l>
+                  <l>With <hi>Rainsborow</hi> that Leveller,</l>
+                  <l>and <hi>Pride</hi> that precious Jew.</l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Say</hi> once more, we doe thee pray,</l>
+                  <l>into a Saw-pit fall,</l>
+                  <l>Let <hi>Martin</hi> purge his Pocks away</l>
+                  <l>within ſome Hoſpitall.</l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Hammon</hi> have his brains knockt out</l>
+                  <l>with his owne bunch of Keyes,</l>
+                  <l>Let <hi>Watſon</hi> and his zealous rout</l>
+                  <l>viſit the <hi>Hebrides.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let the two Houſes fight and ſcratch,</l>
+                  <l>like wives at <hi>Billingſgate,</hi>
+                  </l>
+                  <l>And let them ne're a Peace up patch,</l>
+                  <l>untill it be too late.</l>
+               </lg>
+               <lg>
+                  <l>That ſo upon each Houſe of clay</l>
+                  <l>King <hi>Charles</hi> may mount his Throne,</l>
+                  <l>Heare us (O Father) wee thee pray,</l>
+                  <l>our hope's in thee alone.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
